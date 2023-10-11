@@ -13,7 +13,7 @@ params:
     imageHeight: 377 # custom size
     buttons:
       - name: Members 👄
-        url: "/milfctf.com/members"
+        url: "/members"
       - name: Blog ✏️
         url: "https://blog.milfctf.com/"
 
