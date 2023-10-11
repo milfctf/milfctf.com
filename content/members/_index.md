@@ -13,29 +13,51 @@ disableHLJS: false
 hideSummary: false
 ---
 
-## hashp4
-In progress...
-
-## baddhack
-In progress...
-
-## 0xdeadbeef
-In progress...
-
-## Rxphgui
-In progress...
-
-## naacbin
-In progress...
-
-## Lwo
-In progress...
-
-## Teddybears
-In progress...
-
-## PandatiX
-In progress...
-
-## Francisco
-In progress...
+{{< rawhtml >}}
+<table>
+  <thead>
+    <tr>
+      <th> </th>
+      <th> </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><img src="hashp4.jpg" width=150px height=150px alt="profile-image" /></td>
+      <td><strong>hashp4</strong><br /><span class="tag tag-pentest tag-lg">pentest</span><span class="tag tag-osint tag-lg">OSINT</span><span class="tag tag-forensics tag-lg">forensics</span><br />"<i>It's beautiful to love the ordinary</i>"<br />- Blog: <a href="https://hashp4.fr">https://hashp4.fr</a><br />- Twitter: <a href="https://x.com/hashp4_">@hashp4</a></td>
+    </tr>
+    <tr>
+      <td><img src="baddhack.png" width=150px height=150px alt="profile-image" /></td>
+      <td><strong>baddhack</strong><br /><span class="tag tag-forensics tag-lg">forensics</span><span class="tag tag-osint tag-lg">OSINT</span><br /><br />- Twitter: <a href="https://x.com/baddhack">@baddhack</a></td>
+    </tr>
+    <tr>
+      <td><img src="default.png" width=120px height=150px alt="profile-image" /></td>
+      <td><strong>voiv0de</strong><br /><span class="tag tag-reverse tag-lg">reverse</span><span class="tag tag-pwn tag-lg">pwn</span><span class="tag tag-crypto tag-lg">crypto</span><br /><br />/</td>
+    </tr>
+    <tr>
+      <td><img src="rxphgui.jpg" width=150px height=150px alt="profile-image" /></td>
+      <td><strong>rxphgui</strong><br /><span class="tag tag-pwn tag-lg">pwn</span><span class="tag tag-pentest tag-lg">pentest</span><br /><br />"<i>I want to catch the pwn</i>"</td>
+    </tr>
+    <tr>
+      <td><img src="naacbin.png" width=150px height=150px alt="profile-image" /></td>
+      <td><strong>naacbin</strong><br /><span class="tag tag-forensics tag-lg">forensics</span><span class="tag tag-pentest tag-lg">pentest</span><span class="tag tag-reverse tag-lg">reverse</span><br />"<i>Keep digging, you will find</i>"<br />- Blog: <a href="https://naacbin.gitlab.io/">https://naacbin.gitlab.io</a><br />- Twitter: <a href="https://twitter.com/naacbin">@naacbin</a></td>
+    </tr>
+    <tr>
+      <td><img src="lwo.png" width=150px height=150px alt="profile-image" /></td>
+      <td><strong>Lwo</strong><br /><span class="tag tag-web tag-lg">web</span><span class="tag tag-pentest tag-lg">pentest</span><br />"<i>prout</i>"<br />- Blog: <a href="https://lwooo.gitlab.io/">https://naacbin.gitlab.io</a></td>
+    </tr>
+    <tr>
+      <td><img src="teddybears.gif" width=150px height=100px alt="profile-image" /></td>
+      <td><strong>Teddybears</strong><br /><span class="tag tag-reverse tag-lg">rev</span><span class="tag tag-pwn tag-lg">pwn</span><br /><br />"<i>chmart</i>"</td>
+    </tr>
+    <tr>
+      <td><img src="default.png" width=120px height=150px alt="profile-image" /></td>
+      <td><strong>PandatiX</strong><br /><span class="tag tag-dev tag-lg">dev</span><br />"/"</td>
+    </tr>
+    <tr>
+      <td><img src="default.png" width=120px height=150px alt="profile-image" /></td>
+      <td><strong>Francisco</strong><br /><span class="tag tag-web tag-lg">web</span><span class="tag tag-mobile tag-lg">mobile</span><br />"/"</td>
+    </tr>
+  </tbody>
+</table>
+{{< /rawhtml >}}

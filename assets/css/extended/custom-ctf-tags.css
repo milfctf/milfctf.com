@@ -1,0 +1,71 @@
+.tag {
+    display: inline-block;
+    border-radius: 1px;
+    padding: .2em .5em .3em;
+    border-radius: 2px;
+    background: var(--tag-bg);
+    color: var(--text-color);
+    font-weight: 600;
+    margin: .25em .1em;
+    margin-right: .5em;
+}
+
+.tag-forensics {
+    background: #000d62;
+    color: #ffffff;
+    font-size: 12px;
+}
+
+.tag-osint {
+    background: #3299ff;
+    color: #fff;
+    font-size: 12px;
+}
+
+.tag-pwn {
+    background: #760101;
+    color: #fff;
+    font-size: 12px;
+}
+
+.tag-web {
+    background: #c56a03;
+    color: #ffffff;
+    font-size: 12px;
+}
+
+.tag-reverse {
+    background: #98810d;
+    color: #ffffff;
+    font-size: 12px;
+}
+
+.tag-pentest {
+    background: #020e14;
+    color: #ffffff;
+    font-size: 12px;;
+}
+
+.tag-dev {
+    background: #0d9951;
+    color: #ffd102;
+    font-size: 12px;
+}
+
+.tag-mobile {
+    background: #84005c;
+    color: #fff;
+    font-size: 12px;
+}
+
+.tag-misc {
+    color: #fff;
+    background: #6675e0;    
+    font-size: 12px;
+}
+
+.tag-crypto {
+    color: #fff;
+    background: #00640f;    
+    font-size: 12px;
+}
