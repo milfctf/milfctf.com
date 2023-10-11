@@ -1,4 +1,26 @@
 baseURL: "https://milfctf.github.io/milfctf.com/"
 languageCode: en-us
-title: My New Hugo Site
+title: MILF | French CTF Team
 theme: PaperMod
+params:
+  profileMode:
+    enabled: true
+    title: "Mother I'd Like to Flag" # optional default will be site title
+    subtitle: "🇫🇷 French CTF team"
+    imageUrl: "logo-milf.png" # optional
+    imageTitle: "MILF Logo" # optional
+    imageWidth: 305 # custom size
+    imageHeight: 377 # custom size
+    buttons:
+      - name: Members 👄
+        url: "/milfctf.com/members"
+      - name: Blog ✏️
+        url: "https://blog.milfctf.com/"
+
+  socialIcons: # optional
+    - name: "Twitter"
+      url: "https://x.com/MILF_CTF"
+    - name: "ctftime"
+      url: "https://ctftime.org/team/182289/"
+    - name: "github"
+      url: "https://github.com/orgs/milfctf/repositories"
