@@ -1,0 +1,4 @@
+baseURL: "https://milfctf.github.io/milfctf.com/"
+languageCode: en-us
+title: My New Hugo Site
+theme: PaperMod
