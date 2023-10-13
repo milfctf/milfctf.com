@@ -31,8 +31,8 @@ hideSummary: false
       <td><strong>baddhack</strong><br /><span class="tag tag-forensics tag-lg">forensics</span><span class="tag tag-osint tag-lg">OSINT</span><br /><br />- Twitter: <a href="https://x.com/baddhack">@baddhack</a></td>
     </tr>
     <tr>
-      <td><img src="default.png" width=120px height=150px alt="profile-image" /></td>
-      <td><strong>voiv0de</strong><br /><span class="tag tag-reverse tag-lg">reverse</span><span class="tag tag-pwn tag-lg">pwn</span><span class="tag tag-crypto tag-lg">crypto</span><br /><br />/</td>
+      <td><img src="voiv0de.jpg" width=150px height=150px alt="profile-image" /></td>
+      <td><strong>voiv0de</strong><br /><span class="tag tag-reverse tag-lg">reverse</span><span class="tag tag-pwn tag-lg">pwn</span><span class="tag tag-crypto tag-lg">crypto</span><br /><i>"Now we shall both allocate from the tcache as our top priority"</i> said malloc<br /><i>"Lol"</i>, said calloc, <i>"lmao"</i></td>
     </tr>
     <tr>
       <td><img src="rxphgui.jpg" width=150px height=150px alt="profile-image" /></td>
@@ -52,10 +52,10 @@ hideSummary: false
     </tr>
     <tr>
       <td><img src="default.png" width=120px height=150px alt="profile-image" /></td>
-      <td><strong>PandatiX</strong><br /><span class="tag tag-dev tag-lg">dev</span><br />"/"</td>
+      <td><strong>PandatiX</strong><br /><span class="tag tag-phd tag-lg">PhD</span><span class="tag tag-infra tag-lg">infra</span><span class="tag tag-go tag-lg">go</span><br />"/"</td>
     </tr>
     <tr>
-      <td><img src="default.png" width=120px height=150px alt="profile-image" /></td>
+      <td><img src="francisco.png" width=150px height=150px alt="profile-image" /></td>
       <td><strong>Francisco</strong><br /><span class="tag tag-web tag-lg">web</span><span class="tag tag-mobile tag-lg">mobile</span><br />"Flag in HTML source plz"</td>
     </tr>
   </tbody>

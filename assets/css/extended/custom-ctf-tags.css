@@ -69,3 +69,28 @@
     background: #00640f;    
     font-size: 12px;
 }
+
+.tag-infra {
+    color: #fff;
+    background: #310152;    
+    font-size: 12px;
+}
+
+.tag-phd {
+    color: #fff;
+    background: #012e01;    
+    font-size: 12px;
+}
+
+.tag-go {
+    color: #fff;
+    background: #00c1f1;    
+    font-size: 12px;
+}
+
+@media (max-width: 480px) {
+    img {
+        height: 100%;
+        width: 100%;
+    }
+}
