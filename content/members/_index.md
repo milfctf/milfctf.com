@@ -44,11 +44,11 @@ hideSummary: false
     </tr>
     <tr>
       <td><img src="lwo.png" width=150px height=150px alt="profile-image" /></td>
-      <td><strong>Lwo</strong><br /><span class="tag tag-web tag-lg">web</span><span class="tag tag-pentest tag-lg">pentest</span><br />"<i>prout</i>"<br />- Blog: <a href="https://lwooo.gitlab.io/">https://lwooo.gitlab.io</a></td>
+      <td><strong>Lwo</strong><br /><span class="tag tag-web tag-lg">web</span><span class="tag tag-pentest tag-lg">pentest</span><br />"<i>prout</i>"</td>
     </tr>
     <tr>
       <td><img src="teddybears.gif" width=150px height=100px alt="profile-image" /></td>
-      <td><strong>Teddybears</strong><br /><span class="tag tag-reverse tag-lg">reverse</span><span class="tag tag-pwn tag-lg">pwn</span><br /><br />"<i>chmart</i>"</td>
+      <td><strong>Teddybears</strong><br /><span class="tag tag-reverse tag-lg">reverse</span><span class="tag tag-pwn tag-lg">pwn</span><br />"<i>chmart</i>"</td>
     </tr>
     <tr>
       <td><img src="pandatix.jpg" width=150px height=150px alt="profile-image" /></td>
